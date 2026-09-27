@@ -11,4 +11,4 @@ arxiv
 matplotlib
 seaborn
 jupyterlab
-- .e
+-e .
