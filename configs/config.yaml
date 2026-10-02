@@ -1,0 +1,18 @@
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  external_data: "data/external"
+  interim_data = "data/interim"
+
+market:
+  benchmark: "^GSPC"
+  start: "2015-01-01"
+  tickers: ["AAPL", "MSFT", "GOOG", "AMZN", "TSLA", "NVDA", "META"]
+
+aiid:
+  snapshot: "backup-20260928101247.tar.bz2"
+  base_url: "https://pub-72b2b2fc36ec423189843747af98f80e.r2.dev"
+
+event_study:
+  windows: [[-1, 1],[-5, 5], [-10, 10], [-20, 20]]
+  estimation_days: 300
