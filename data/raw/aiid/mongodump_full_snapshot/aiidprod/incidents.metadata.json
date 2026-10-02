@@ -1,1 +1,3 @@
-{"options":{"changeStreamPreAndPostImages":{"enabled":true}},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"incident_id":{"$numberInt":"-1"}},"name":"incident_id_idx"},{"v":{"$numberInt":"2"},"key":{"reports":{"$numberInt":"1"}},"name":"reports_idx","background":true},{"v":{"$numberInt":"2"},"key":{"date_modified":{"$numberInt":"-1"}},"name":"date_modified_idx","background":true}],"uuid":"bd3da09445014da18fb6de9a9200a550","collectionName":"incidents","type":"collection"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d48b7e41d97f9a5fd18df95b89fa2f0532929257d4055bdbcc7993e4110baee6
+size 543

@@ -1,1 +1,3 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"fceaad1e9db64e7f94aa931d3ae1a866","collectionName":"checklists","type":"collection"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d29c50fd60ab0dc218973f47880a8fdc668613b6e38bd1c3324e9050193e189a
+size 177

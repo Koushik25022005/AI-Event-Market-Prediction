@@ -1,1 +1,3 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"2026c7517103490981015f9ce3ca20c1","collectionName":"entity_duplicates","type":"collection"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e25a99c357603b21eac762452a148ec3f8ac2761269951198466cfac94899f87
+size 184

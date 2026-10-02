@@ -1,1 +1,3 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"incident_id":{"$numberInt":"1"},"sameAs":{"$numberInt":"1"},"source_namespace":{"$numberInt":"1"}},"name":"incident_links_unique_link","unique":true}],"uuid":"5178e9f5fefb41dfb84cbe805e6c42bc","collectionName":"incident_links","type":"collection"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed1a3183491ad490319174c1c9630e676ca400cb6f2580ca92e54e025d18e5fa
+size 363

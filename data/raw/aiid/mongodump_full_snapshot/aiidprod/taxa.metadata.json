@@ -1,1 +1,3 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"a01c187e30d643168b7df0e81d269adc","collectionName":"taxa","type":"collection"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9722d0245d4192fea570ca27bae5430de2e9f072169eb74a93d04d0ce03bfb6
+size 171

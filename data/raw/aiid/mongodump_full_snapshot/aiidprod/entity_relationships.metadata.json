@@ -1,1 +1,3 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"sub":{"$numberInt":"1"}},"name":"sub_idx","background":true},{"v":{"$numberInt":"2"},"key":{"obj":{"$numberInt":"1"}},"name":"obj_idx","background":true}],"uuid":"c0da991ff92047d3913fdb95eb86bed1","collectionName":"entity_relationships","type":"collection"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7edcb3d70a57f007ae7b36a3d2dec6d5f5a356a2e5b741afa81d0cc2308c9e4e
+size 373

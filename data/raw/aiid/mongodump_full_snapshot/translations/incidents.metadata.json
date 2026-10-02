@@ -1,1 +1,3 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"incident_id":{"$numberInt":"1"}},"name":"incident_id_1"}],"uuid":"02d6c1b11c9a4064ae977b59a3297d17","collectionName":"incidents","type":"collection"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:89e38b3ca645c6e288b140dcc7720a93e6989d5abf509ad69bf1e6bd2b4e02f7
+size 265

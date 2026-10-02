@@ -1,0 +1,133 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "questions",
+  "dataset_name": "forecast-dojo",
+  "dataset_size": 2386589,
+  "description": "",
+  "download_size": 454263,
+  "features": {
+    "event_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "split": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "slug": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "body": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "belief_kind": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "resolved_label": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "domain": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "domains": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "tags": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "market_flags": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "start_date": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "close_date": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "forecast_dates": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "crowd_probabilities": {
+      "feature": {
+        "dtype": "float64",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "options": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "markets": {
+      "feature": {
+        "label": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "question": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 2840852,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1883927,
+      "num_examples": 1053,
+      "dataset_name": "forecast-dojo"
+    },
+    "eval": {
+      "name": "eval",
+      "num_bytes": 502662,
+      "num_examples": 248,
+      "dataset_name": "forecast-dojo"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
