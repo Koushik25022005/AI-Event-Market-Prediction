@@ -11,4 +11,5 @@ arxiv
 matplotlib
 seaborn
 jupyterlab
+pyarrow
 -e .
